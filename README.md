@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshanSerasinghe
-- 👀 I’m interested in Machine Learning AI, Signala processing, Desktop and mobile application  
+- 👀 I’m interested in Machine Learning AI, Signala processing, Desktop and Mobile applications   
 - 🌱 I’m currently learning C# WPF and Flutter with Dart
 - 📫 Reach me via ashanserasinghe.vp@gmail.com
 
