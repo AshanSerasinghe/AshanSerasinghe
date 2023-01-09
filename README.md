@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AshanSerasinghe
-- 👀 I’m interested in Machine Learning AI, and Signala processing 
+- 👀 I’m interested in Machine Learning AI, Signala processing, Desktop and mobile application  
 - 🌱 I’m currently learning C# WPF and Flutter with Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me via ashanserasinghe.vp@gmail.com
 
 <!---
 AshanSerasinghe/AshanSerasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
